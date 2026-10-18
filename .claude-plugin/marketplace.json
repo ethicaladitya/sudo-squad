@@ -1,0 +1,15 @@
+{
+  "name": "sudo-squad",
+  "owner": {
+    "name": "Aditya Shah",
+    "url": "https://github.com/ethicaladitya"
+  },
+  "description": "sudo-squad: a dev team of Claude Code subagents for any website or app.",
+  "plugins": [
+    {
+      "name": "sudo-squad",
+      "source": "./",
+      "description": "A dev team of Claude Code subagents that plan, build, test, review and secure changes in any project."
+    }
+  ]
+}

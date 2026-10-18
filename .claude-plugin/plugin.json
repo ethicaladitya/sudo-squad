@@ -1,0 +1,10 @@
+{
+  "name": "sudo-squad",
+  "description": "A dev team of Claude Code subagents for any website or app: ceo, project-manager, developer, wordpress, tester, code-reviewer and security-analyst. The project-manager takes tasks from your tracker, hands them out in sequence and loops fixes until the final commit is approved.",
+  "version": "1.0.0",
+  "author": { "name": "Aditya Shah", "url": "https://github.com/ethicaladitya" },
+  "homepage": "https://github.com/ethicaladitya/sudo-squad",
+  "repository": "https://github.com/ethicaladitya/sudo-squad",
+  "license": "MIT",
+  "keywords": ["subagents", "multi-agent", "project-manager", "code-review", "security", "testing", "wordpress"]
+}
